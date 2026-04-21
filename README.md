@@ -6,14 +6,6 @@
 
   ---
 
-  ## Stack
-
-  - **Automação:** Robot Framework · Playwright · Appium · Selenium
-  - **API:** Postman · RequestsLibrary
-  - **Metodologias:** BDD/Gherkin · Scrum · Kanban
-
-  ---
-
   ## Foco atual
 
   Aprofundando automação com Robot Framework e Playwright,
@@ -37,3 +29,5 @@
   ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
   ![Appium](https://img.shields.io/badge/Appium-40C4FF?style=for-the-badge&logo=appium&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+    - **Metodologias:** BDD/Gherkin · Scrum · Kanban
