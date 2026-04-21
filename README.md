@@ -23,7 +23,7 @@
 
   ## Contato
 
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-luizolivieriqa-blue?logo=linkedin)](https://linkedin.com/in/luizolivieriqa)
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-luizolivieriqa-blue?logo=linkedin)  (https://linkedin.com/in/luizolivieriqa)
 
   ---
   
